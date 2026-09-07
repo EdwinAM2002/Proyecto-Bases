@@ -1,1 +1,2 @@
-print("Hola, soy Persona A")
+print("Hola, soy Persona B")
+
